@@ -51,3 +51,5 @@ You can adjust the following aspects:
 - **Transition Times**: Update the timing values in `script.js` or `styles.css` to customize the speed of animations.
 - **Item Content**: Add or modify carousel items in `index.html` to update images, titles, descriptions, etc.
 - **Styling**: Customize colors, fonts, and effects in `styles.css`.
+
+Website link: https://chaitanyaperumalla.github.io/AirpodsHub/
